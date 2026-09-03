@@ -217,6 +217,8 @@ fastapi==0.116.1
 uvicorn[standard]==0.35.0
 jinja2==3.1.6
 python-multipart==0.0.20
+cryptography==45.0.6
+itsdangerous==2.2.0
 EOF
 
 # ------------------------------------------------------------
